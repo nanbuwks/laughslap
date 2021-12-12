@@ -1,4 +1,4 @@
 # laughslap
 
 
-![structure](../main/readme-pictures/overall.png)
+![structure](../../main/readme-pictures/overall.png)
